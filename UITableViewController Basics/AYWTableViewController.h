@@ -1,5 +1,5 @@
 //
-//  AYWViewController.h
+//  AYWTableViewController.h
 //  UITableViewController Basics
 //
 //  Created by Art Wong on 4/8/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AYWViewController : UIViewController
+@interface AYWTableViewController : UITableViewController
 
 @end
